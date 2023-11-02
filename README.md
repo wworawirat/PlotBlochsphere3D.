@@ -1,2 +1,2 @@
 # PlotBlochsphere3D.
-For windows only. Mac require Mayavi
+For windows only. Mac requires Mayavi
